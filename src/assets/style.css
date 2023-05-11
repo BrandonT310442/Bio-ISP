@@ -55,7 +55,16 @@ right: 0;
     #we-the-north{
         /*Overrides previous css*/
         font-size: 30px !important;
-        letter-spacing: 30px;
+        letter-spacing: 15px !important ;
+       margin-top: 260px !important;
+    }
+}
+
+@media(max-width:750px){
+    #we-the-north{
+        /*Overrides previous css*/
+        font-size: 15px !important;
+    
        margin-top: 260px !important;
     }
 }

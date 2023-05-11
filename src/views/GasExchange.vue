@@ -16,7 +16,7 @@ import Navbar from '../components/Navbar.vue'
     <section class="text-gray-600 body-font">
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
-      <img class="object-cover object-center rounded" alt="hero" src="../assets/images/1.1.jpg">
+      <img class="object-cover object-center rounded" alt="hero" src="../assets/images/2.1.gif">
     </div>
     <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Path of Respiration
@@ -35,10 +35,10 @@ import Navbar from '../components/Navbar.vue'
 <section class="text-gray-600 body-font">
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
-      <img class="object-cover object-center rounded" alt="hero" src="../assets/images/RNAediting.webp">
+      <img class="object-cover object-center rounded" alt="hero" src="../assets/images/2.2.webp">
     </div>
     <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Path of Oxygen Once Pumped from the Heart
+      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Path of Oxygen Once Pumped From The Heart
       </h1>
       <p class="mb-8 leading-relaxed">All octopuses have three hearts. As stated previously, two of the three hearts are used to pump blood through the gills where gas exchange occurs. The blood, which leaves the gills, is now oxygenated and will return to the third heart to be pumped through the rest of the body for various cellular functions. In humans, oxygen is carried in a protein called hemoglobin, however in octopuses, they use a different protein called hemocyanin. Hemocyanin is dissolved in plasma which causes the blood of an octopus to be blue (Figure 2.2). The main difference between hemocyanin and hemoglobin is that hemocyanin contains copper instead of iron. This difference causes hemocyanin not to be directly bounded to red blood cells like hemoglobin. Instead, hemocyanin is suspended within the hemolymph and transports oxygen throughout the body through this process. One concern for aquatic animals such as octopuses is the amount of oxygen in the water. As climate change worsens, so does the temperature of the water. The temperature of water affects the degree of dissolution (solubility). As temperature increases, the solubility of gas solutes decreases. Furthermore, if the temperature were to increase, the amount of aqueous oxygen in the water would decrease because of solubility decreasing. The solubility would decrease because gas molecules are more likely to become gas instead of aqueous as they speed up. This in turn, will cause less oxygen in the water, leading to suffocating octopuses due to lack of oxygen (Kate Douglas, n.d.).  </p>
       <div class="flex justify-center">
