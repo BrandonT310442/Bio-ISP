@@ -14,14 +14,12 @@
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">The Dumbo 
         <br class="hidden lg:inline-block">Octopus
       </h1>
-      <p class="mb-8 leading-relaxed">Dumbo Octopuses can be found at depths of up to 9,800 to 13,000 feet. Additionally, having a pair of fins on their mantle and being super small are some of their features (MarineBio, n.d.). </p>
-      <div class="flex justify-center">
-        <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
-        <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
-      </div>
+      <p class="mb-8 leading-relaxed">Dumbo Octopuses can be found at depths of up to 9,800 to 13,000 feet. Additionally, having a pair of fins on their mantle and being super small are some of their features. It is widely considered as one of the cutest octopuses. Their movement is different from other octopuses as they use their fins on the mantle. (MarineBio, n.d.). </p>
+   
     </div>
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
       <img class="object-cover object-center rounded" alt="hero" src="../assets/images/dumboimg.webp">
+      <p>Grimpoteuthis, The Dumbo Octopus. (2023, May 11). Smithsonian Ocean. https://ocean.si.edu/ocean-life/invertebrates/grimpoteuthis-dumbo-octopus</p>
     </div>
   </div>
 </section>

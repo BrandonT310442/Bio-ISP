@@ -7,6 +7,7 @@ import Circulation from '../views/Circulation.vue'
 import Digestion from '../views/Digestion.vue'
 import Adaptation from '../views/Adaptation.vue'
 import Evolution from '../views/Evolution.vue'
+import Citations from '../views/Citations.vue'
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
     routes: [
@@ -18,6 +19,7 @@ const router = createRouter({
         { path: '/Digestion', name:'digestion', component: Digestion },
         { path: '/Adaptation', name:'adaptation', component: Adaptation },
         { path: '/Evolution', name:'evolution', component: Evolution },
+        { path: '/Citations', name:'citation', component: Citations },
 
 
     ]

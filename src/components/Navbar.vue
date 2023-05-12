@@ -20,6 +20,7 @@
      <RouterLink to="/Digestion"><a class="mr-5 hover:text-gray-900">Digestion</a></RouterLink>
      <RouterLink to="/Adaptation"><a class="mr-5 hover:text-gray-900">Adaptation & Variation</a></RouterLink>
      <RouterLink to="/Evolution"><a class="mr-5 hover:text-gray-900">Evolution</a></RouterLink>
+     <RouterLink to="/Citations"><a class="mr-5 hover:text-gray-900">Citations</a></RouterLink>
 
     </nav>
     
